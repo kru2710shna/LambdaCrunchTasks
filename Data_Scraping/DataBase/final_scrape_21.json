@@ -1,0 +1,555 @@
+[
+    {
+        "url": "https://www.arirangsupermarket.com/locations-and-stores",
+        "store_name": "A.R. Supermarket",
+        "store_description": "A supermarket offering a variety of products.",
+        "store_location": "9580 Garden Grove Blvd #300, Garden Grove, CA 92844",
+        "store_phone_number": "(714) 539-2703"
+    },
+    {
+        "url": "https://www.berkeleybowl.com/contact-us",
+        "store_name": "Berkeley Bowl",
+        "store_description": "We'd love to hear from you! Are you a VENDOR wishing to get your products on the shelves at Berkeley Bowl? Questions about a recent ONLINE GROCERY ORDER thru our Berkeley Bowl app or online in our Berkeley Bowl shop? Do you have general questions/requests/comments/compliments/feedback or just want to say hello?",
+        "store_location": "Berkeley, CA",
+        "store_phone_number": "(510) 843-6929, (510) 898-9555"
+    },
+    {
+        "url": "https://www.heb.com/heb-store/US/tx/houston/meyerland-market-h-e-b-745",
+        "store_name": "Meyerland Market H\u2011E\u2011B",
+        "store_description": "Meyerland Market H\u2011E\u2011B offers a variety of grocery items, pharmacy services, and food features including Take and Bake Pizza and The Coffee Spot.",
+        "store_location": "4955 Beechnut Street, Houston, TX 77096-4001",
+        "store_phone_number": "(713) 662-4000"
+    },
+    {
+        "url": "https://www.shopmarketbasket.com/timeline",
+        "store_name": "Market Basket",
+        "store_description": "Market Basket is a grocery store chain that has a rich history dating back to 1908 when Athanasios and Efrosini Demoulas immigrated from Greece and began cultivating crops in Lowell, Massachusetts.",
+        "store_location": "Lowell, Massachusetts",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.sendiks.com/contact-us",
+        "store_name": "Sendik's",
+        "store_description": "We're currently experiencing a temporary outage affecting online grocery orders and our ad. We apologize for the inconvenience and are working hard to get things back up and running as soon as possible.",
+        "store_location": "Not specified",
+        "store_phone_number": "Not specified"
+    },
+    {
+        "url": "https://www.lundsandbyerlys.com/sm/pickup/rsid/1007/contact-us",
+        "store_name": "Lunds & Byerlys",
+        "store_description": "Contact us for any questions or comments.",
+        "store_location": "4100 West 50th Street, Suite 2100, Edina, MN 55424",
+        "store_phone_number": "952-548-1400"
+    },
+    {
+        "url": "https://www.cermakfreshmarket.com/contact-us",
+        "store_name": "Cermak Fresh Market",
+        "store_description": "Cermak Fresh Market is a premier Chicago Supermarket Chain located in the Midwest, United States. Our company specializes in a variety of ethnic foods catering to Mexican, Puerto Rican, Greek, Italian, Polish, Russian and other European and Latin American cultures.",
+        "store_location": "Midwest, United States",
+        "store_phone_number": "Invalid Input"
+    },
+    {
+        "url": "https://locations.cardenasmarkets.com/ll/us/nv/las-vegas/2545-s-eastern-ave/",
+        "store_name": "Cardenas Markets Las Vegas on S. Eastern Ave.",
+        "store_description": "Welcome to Cardenas Markets Las Vegas location on 2545 S. Eastern Ave.! You\u2019ll find that shopping at Cardenas Markets is more than just a trip to the grocery store . . . it\u2019s truly a unique shopping experience where you\u2019ll find fresh and authentic Hispanic food in addition to traditional grocery offerings in a fun, festive and safe environment. Your local Cardenas Market features a colorful produce department, full-service meat and seafood departments, an authentic Mexican Cocina where you\u2019ll find...",
+        "store_location": "2545 S. Eastern Ave., Las Vegas, NV 89169",
+        "store_phone_number": "(702) 851-5272"
+    },
+    {
+        "url": "https://local.safeway.com/safeway/ca/san-francisco/3350-mission-st.html?utm_source=G&utm_medium=Maps&utm_campaign=G+Places",
+        "store_name": "Safeway",
+        "store_description": "Visit your neighborhood Safeway located at 3350 Mission St, San Francisco, CA, for a convenient and friendly grocery experience! From our wide selection of groceries, bakery, deli and fresh produce, we've got you covered! Our bakery features customizable cakes, cupcakes and more while the deli offers a variety of party trays, made to order. Our pick up service Order Ahead even allows you to place your bakery order online so it's ready for you when you get here! At the...",
+        "store_location": "3350 Mission St, San Francisco, CA 94110, US",
+        "store_phone_number": "(415) 826-2866"
+    },
+    {
+        "url": "https://mayuriseattle.com/contact/",
+        "store_name": "Mayuri Foods",
+        "store_description": "An Indian and Asian marketplace offering catering, wedding and event food, and decorations.",
+        "store_location": "2560 152ND AVENUE NE, Suite G, Redmond, WA, 98052, US",
+        "store_phone_number": "+1 425-123-4567"
+    },
+    {
+        "url": "https://local.jewelosco.com/il/chicago/2550-n-clybourn-ave.html",
+        "store_name": "Jewel-Osco Clybourn & Wrightwood Ave",
+        "store_description": "Visit your neighborhood Jewel-Osco located at 2550 N Clybourn Ave, Chicago, IL, for a convenient and friendly grocery experience! Our bakery features customizable cakes, cupcakes and more while the deli offers a variety of party trays, made to order. Our pick up service; Order Ahead, even allows you to place your bakery order online so its ready for you when you get here! In our store, you'll find a wide selection of high-quality meat, seafood, and even sushi, while our...",
+        "store_location": "2550 N Clybourn Ave, Chicago, IL 60614, US",
+        "store_phone_number": "(773) 348-6426"
+    },
+    {
+        "url": "http://www.marukaihawaii.com/contactus/contactus.html",
+        "store_name": "",
+        "store_description": "",
+        "store_location": "",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://elranchoinc.com/contact-us/",
+        "store_name": "El Rancho Inc.",
+        "store_description": "We are interested in your comments. Let us know your opinion!",
+        "store_location": "16775 Addison Rd. Addison, TX 75001",
+        "store_phone_number": "(972) 526-7300"
+    },
+    {
+        "url": "https://ranchomarkets.com/Contact.html",
+        "store_name": "Rancho Markets",
+        "store_description": "Rancho Markets offers a variety of services including corporate, vendor, accounting, HR, compliance, and marketing.",
+        "store_location": "Not specified",
+        "store_phone_number": "Not specified"
+    },
+    {
+        "url": "https://www.newseasonsmarket.com/find-a-store/concordia",
+        "store_name": "Concordia",
+        "store_description": "New Seasons grocery store",
+        "store_location": "5320 NE 33rd Ave, Portland, OR 97211",
+        "store_phone_number": "(503) 288-3838"
+    },
+    {
+        "url": "https://stores.foodlion.com/nc/charlotte/6430-w-sugar-creek-rd",
+        "store_name": "Food Lion Grocery Store of North Charlotte - Cheshire Commons",
+        "store_description": "Food Lion Grocery Store offering a variety of grocery items and services.",
+        "store_location": "6430 W Sugar Creek Rd, Charlotte, NC 28269",
+        "store_phone_number": "(704) 598-1067"
+    },
+    {
+        "url": "https://www.wegmans.com/stores/chestnut-hill-ma/",
+        "store_name": "Wegmans Chestnut Hill",
+        "store_description": "Your local Wegmans grocery store offering a wide range of products including bakery, dairy, frozen foods, and more.",
+        "store_location": "200 Boylston St, Chestnut Hill, MA 02467",
+        "store_phone_number": "617-762-2000"
+    },
+    {
+        "url": "https://www.bravosupermarkets.com/about",
+        "store_name": "Bravo Supermarket",
+        "store_description": "Your Neighborhood Supermarket spanning from New York to Florida. Community involvement is the cornerstone of the Bravo name.",
+        "store_location": "New York to Florida",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.harristeeter.com/stores/grocery/va/arlington/arlington/097/00486",
+        "store_name": "Harris Teeter",
+        "store_description": "Grocery store offering a variety of products including pharmacy services.",
+        "store_location": "624B N Glebe Rd Arlington, VA 22203",
+        "store_phone_number": "571-758-2640"
+    },
+    {
+        "url": "https://elsupermarkets.com/contact-us/",
+        "store_name": "El Super",
+        "store_description": "Chedraui USA / El Super Corporate Office",
+        "store_location": "600 Citadel Drive, Commerce CA 90040, United States",
+        "store_phone_number": "(323)-869-7500"
+    },
+    {
+        "url": "https://www.newworldmarketsf.com",
+        "store_name": "Traditional Flavors",
+        "store_description": "We specialize in traditional European comfort food inspired by our grandmothers' recipes.",
+        "store_location": "",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.namastecart.com/contact",
+        "store_name": "Namaste Plaza",
+        "store_description": "Now delivering to Morgan Hill, San Martin and Gilroy every Wednesday!",
+        "store_location": "1763 Capitol Expy, San Jose, CA, 95121",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.wholefoodsmarket.com/departments",
+        "store_name": "Whole Foods Market",
+        "store_description": "A visit to our stores hardly feels like grocery shopping. Maybe it\u2019s the colorful, peak-season produce you see when you first enter. Or our fishmongers who will happily share their favorite ways to cook our fresh seafood. Whatever it is, we invite you to explore our aisles, get inspired and stay a while.",
+        "store_location": "Find a Store",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.hosindia.com",
+        "store_name": "HOS Global Foods",
+        "store_description": "HOS Global Foods is the largest importer and distributor for South Asian food in North America and represents multiple leading FMCG brands from India, Pakistan, Bangladesh, Sri Lanka, Malaysia, Thailand, Australia, Spain, Netherlands, Argentina, South Africa, UAE, Canada, Columbia, Mexico, Ecuador, China, Turkey and Vietnam. With its home brand Laxmi, HOS Global Foods also offers a wide range of authentic South Asian cooking ingredients and snacks that cater to the South Asian community through multiple distribution centers across the country.",
+        "store_location": "3000 Marcus Avenue, Suite 2W10, Lake Success, NY 11042",
+        "store_phone_number": "718-507-4600"
+    },
+    {
+        "url": "https://www.pccmarkets.com/contact-us/",
+        "store_name": "PCC Community Markets",
+        "store_description": "We care about our community. Thank you for taking the time to share your feedback with us. We are working hard to respond to all the messages we receive as quickly as possible.",
+        "store_location": "3131 Elliott Avenue, Suite 500, Seattle, WA 98121",
+        "store_phone_number": "206-547-1222"
+    },
+    {
+        "url": "https://www.superonefoods.com/store-details/duluth-miller-hill-super-one-foods",
+        "store_name": "Duluth Miller Hill Super One Foods",
+        "store_description": "Duluth Miller Hill Super One Foods offers a variety of services and department specialties including a service counter, deli department, and more.",
+        "store_location": "5401 Burning Tree Road, Duluth, MN 55811",
+        "store_phone_number": "218-722-6019"
+    },
+    {
+        "url": "https://www.newpi.coop",
+        "store_name": "New Pi Co-op",
+        "store_description": "Your place to shop local & organic produce, house-cut & cured meats, seafood, hearth breads & house-made meals.",
+        "store_location": "Coralville, Iowa",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.russmarket.com/stores/russs-market-33rd-hwy-2",
+        "store_name": "Russ's Market- 33rd & Nebraska Parkway",
+        "store_description": "Curbside Pick-up (Russ's Pick-Up and Go!), available now, exclusively at Russ\u2019s Market 33rd & Nebraska Parkway. You can shop online and place an order through our website or app for pick-up at Russ\u2019s Market 33rd & Nebraska Parkway.",
+        "store_location": "4400 South 33rd Street Court, Lincoln, NE 68516",
+        "store_phone_number": "402-420-1414"
+    },
+    {
+        "url": "https://www.topsmarkets.com/departments/ContactUs/",
+        "store_name": "TOPS MARKETS",
+        "store_description": "Your satisfaction is our top priority. We welcome your comments, questions and suggestions.",
+        "store_location": "Buffalo, NY 14240-1027",
+        "store_phone_number": "1-800-522-2522"
+    },
+    {
+        "url": "https://www.rosauers.com/contact-us/",
+        "store_name": "Rosauers Supermarkets",
+        "store_description": "Rosauers is an equal opportunity employer.",
+        "store_location": "1815 W Garland Avenue, Spokane, Washington 99205",
+        "store_phone_number": "(509) 326-8900"
+    },
+    {
+        "url": "https://www.nuggetmarket.com/locations/covell-davis/",
+        "store_name": "Nugget Markets",
+        "store_description": "Jonathan joined the Nugget Markets family in 1999 as a courtesy clerk while attending college, and has been a dedicated associate ever since! Now a store director, Jonathan enjoys serving each and every guest, and is passionate about providing an extraordinary grocery experience.",
+        "store_location": "Davis, Covell",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.hapiafricangourmet.com/pages/about-hapi-african-gourmet",
+        "store_name": "Hapi African Gourmet",
+        "store_description": "Hapi African Gourmet is on the mission to mainstream African style foods in the United States. We make it easy to enjoy African inspired meals made locally with minimal preparation. We use food as a common denominator to present a less known side of Africa to the masses. We believe that learning about other cultures and sharing culinary experiences can help people build bridges while indulging in new flavors. We learn more about our common humanity by bonding around great...",
+        "store_location": "196 Quincy Street - Boston, MA 02121",
+        "store_phone_number": "+1 : 857-256-0442"
+    },
+    {
+        "url": "http://www.lamsmarket.com",
+        "store_name": "Lams Market",
+        "store_description": "Bringing Asia to Arizona. For more than 30 years, Our Local store has satisfied the needs of the Asian Community around the Phoenix area by providing them with their hometown flavors. Today, Lams' has grown from an Asian market into a grand International Supermarket catering to various cultures including Chinese, Philippines, Thailand, Laos, Vietnamese, South America, Burmese, Indian, Jamaican, Cambodian, African and much more.",
+        "store_location": "11575 W Van Buren St, Avondale, AZ 85323",
+        "store_phone_number": "623-932-9836"
+    },
+    {
+        "url": "https://www.reasors.com/contact/contact-us",
+        "store_name": "aa.trkn.us",
+        "store_description": "This page has been blocked by an extension - Try disabling your extensions.",
+        "store_location": "Blocked by extension",
+        "store_phone_number": "null"
+    },
+    {
+        "url": "https://www.mitierrahtx.com",
+        "store_name": "Mi Tierra Mexican Kitchen",
+        "store_description": "Mi Tierra, means \u201cmy land\u201d or \u201cmy dirt,\u201d in Spanish. Dirt is the foundation from which all things grow. We invite our guests to come, enjoy the results of our labor, grow closer to friends, family and Mi Tierra. Our food is a modern take on Mexican cuisine, served in an upbeat, energetic atmosphere. We are quality focused, customer orientated, promote a positive work environment, and responsible ingredient sourcing.",
+        "store_location": "3327 Mangum Rd, Houston, Texas 77092",
+        "store_phone_number": ""
+    },
+    {
+        "url": "http://charlottfields.com/contact/",
+        "store_name": "Makola African Market",
+        "store_description": "Quality Service and Quality Products at Quality Prices!",
+        "store_location": "Not specified",
+        "store_phone_number": "Not specified"
+    },
+    {
+        "url": "https://carolina-african-market.com/contact/",
+        "store_name": "Carolina African Market",
+        "store_description": "A market offering a variety of African products.",
+        "store_location": "1524 Alleghany St, Charlotte, NC 28208",
+        "store_phone_number": "(704) 910-5151"
+    },
+    {
+        "url": "https://africanfoodpalaceil.com",
+        "store_name": "African Food Palace",
+        "store_description": "Best Food, Great Value",
+        "store_location": "8918 S Commercial Ave, Chicago, IL 60617",
+        "store_phone_number": "773-902-7395"
+    },
+    {
+        "url": "https://eastafricanimports.com/pages/contact-us",
+        "store_name": "East African Imports & Restaurant",
+        "store_description": "Authentic Ethiopian Food.",
+        "store_location": "306 23rd Ave S #104, Seattle, WA 98144",
+        "store_phone_number": "Not provided"
+    },
+    {
+        "url": "https://www.broulims.com/locations/rexburg",
+        "store_name": "Broulim's Rexburg",
+        "store_description": "In the heart of Rexburg, Broulim's provides groceries for both the local community and the many students who attend Brigham Young University - Idaho. One of our larger stores, you will find just about everything you need.",
+        "store_location": "124 West Main, Rexburg, ID 83440",
+        "store_phone_number": "(208) 356-4651"
+    },
+    {
+        "url": "https://baltimore.org/listings/sankofa-african-world-bazaar/",
+        "store_name": "Sankofa African & World Bazaar",
+        "store_description": "African art and cultural gift shop serving the Sankofa Children\u2019s Museum of African Cultures, featuring a beautiful collection of African ethnographic art, jewelry and authentic clothing.",
+        "store_location": "4330 Pimlico Rd., Baltimore, MD 21215",
+        "store_phone_number": "(410) 366-0886"
+    },
+    {
+        "url": "https://habeshamarket.com",
+        "store_name": "Habesha Market",
+        "store_description": "Ethiopian Restaurant & Carry Out",
+        "store_location": "Washington DC",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.ndmmarket.com/about-us",
+        "store_name": "My Store",
+        "store_description": "An error has occurred making your request.",
+        "store_location": "Select Store",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.fareway.com/stores",
+        "store_name": "Fareway Stores",
+        "store_description": "At Fareway, we\u2019re proud to be one of the best Midwest grocery stores, known for our farm-fresh produce, exceptional meat markets, and commitment to customer service. With over 130 local grocery stores in Iowa, Illinois, Kansas, Minnesota, Missouri, Nebraska, and South Dakota, Fareway is your go-to community supermarket for fresh meats, produce, and great savings.",
+        "store_location": "Multiple locations across Iowa, Illinois, Kansas, Minnesota, Missouri, Nebraska, and South Dakota",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://africanewsmatters.com/african-markets-in-colorado/",
+        "store_name": "Africa News Matters",
+        "store_description": "A platform providing information about African markets and grocery stores in Colorado.",
+        "store_location": "Colorado",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.elahorro.net/en/",
+        "store_name": "El Ahorro",
+        "store_description": "El Ahorro Supermarket offers a variety of products including fresh meat, groceries, fruits and vegetables, dairy, and more. We also provide services such as money transfers and payment orders.",
+        "store_location": "Open Monday to Sunday from 7:00 am to 10:00 pm",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.brookshirebrothers.com/store-location/store-25",
+        "store_name": "Brookshire Brothers",
+        "store_description": "Grocery store with pharmacy, bakery, deli, floral, and fuel services.",
+        "store_location": "1807 W. Frank St., Lufkin, TX 75904",
+        "store_phone_number": "(936) 639-3128"
+    },
+    {
+        "url": "https://www.strackandvantil.com/contact-us/",
+        "store_name": "Strack & Van Til Food Market",
+        "store_description": "Strack & Van Til Food Market offers a variety of grocery items, catering services, and special events.",
+        "store_location": "2244 45th St., Highland, IN 46322",
+        "store_phone_number": "(219) 924-7588"
+    },
+    {
+        "url": "https://www.foodbazaar.com/our-stores/",
+        "store_name": "Food Bazaar",
+        "store_description": "Your local grocery store offering a wide range of products.",
+        "store_location": "Various locations in Bridgeport, CT; Carlstadt, NJ; Elizabeth, NJ; Fairview, NJ; North Bergen, NJ; Piscataway, NJ; Trenton, NJ; West New York, NJ; Bronx, NY; Brooklyn, NY; Queens, NY; Hempstead, NY; Long Island, NY; Mount Vernon, NY.",
+        "store_phone_number": "(123) 456-7890"
+    },
+    {
+        "url": "https://www.almaktoumgoods.com/contact",
+        "store_name": "Alioulo",
+        "store_description": "Please contact us with any questions or concerns.",
+        "store_location": "818 91st Pl SE, Everett, WA 9820",
+        "store_phone_number": "(646) 301-8971"
+    },
+    {
+        "url": "https://www.ellwoodthompsons.com/contact",
+        "store_name": "Ellwood Thompson's",
+        "store_description": "Natural grocery store offering a variety of products.",
+        "store_location": "4 N. Thompson St., Richmond VA 23221",
+        "store_phone_number": "804.359.7525"
+    },
+    {
+        "url": "https://www.hfginc.com/contact",
+        "store_name": "Houchens",
+        "store_description": "We'd love to hear from you. Any questions, comments, or suggestions for us? We're committed to listening and learning from our neighborhood customers.",
+        "store_location": "Not specified",
+        "store_phone_number": "Not specified"
+    },
+    {
+        "url": "https://www.southwestfarmersmarket.com/?srsltid=AfmBOoqhGCXAwb6osOOQB4JYQwNMjXRB0X-v3Tvgc1LRYpdKO1QlqEPd",
+        "store_name": "Southwest Farmers Market",
+        "store_description": "Welcome to the #1 African Grocery Chain Store in the States! We are pleased to offer our customers the convenience of both delivery and pickup options. Our delivery service is fast, reliable, and available for customers throughout the United States. If you prefer to pick up your order, we have convenient pickup locations available for you.",
+        "store_location": "Multiple locations across Texas and one in Baltimore, MD.",
+        "store_phone_number": "(713) 774-8822, (281) 531-4832, (281) 762-1175, (214) 703-8181, (817) 462-1617, (512) 339-6128, (469) 647-4015, (210) 549-0018, (443) 272-2916, (281) 861-5946, (346) 307-7911, (972) 292-9608"
+    },
+    {
+        "url": "https://www.lowesfoods.com/Store-Locator/Store-206",
+        "store_name": "Lowes Foods of Peters Creek",
+        "store_description": "Lowes Foods To Go",
+        "store_location": "5034 Peters Creek Parkway, Winston-Salem, NC 27127",
+        "store_phone_number": "336-788-5600"
+    },
+    {
+        "url": "https://acmsandiego.com",
+        "store_name": "African Caribbean Market",
+        "store_description": "We are expanding beyond just selling african food stuff, we are promoting and bringing other cultures healthy food and more.",
+        "store_location": "San Diego",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.panchovillafarmersmarket.com/about-us",
+        "store_name": "Pancho Villa Farmer's Market",
+        "store_description": "With a legacy dating back to the 1970s, Pancho Villa Farmer\u2019s Market, rooted in San Diego's rich cultural tapestry, has been a beloved destination for those seeking the vibrant tastes and traditions of Latin cuisine. We are committed to providing the highest quality Latin American food products and ingredients to our customers, working directly with local farmers and producers to ensure freshness, sustainability, and ethical sourcing.",
+        "store_location": "San Diego",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.gerbes.com/stores/grocery/mo/columbia/gerbes-on-broadway/615/00124?srsltid=AfmBOopTbPwZALZQa68Ij7JgrLZ_2GKWFCd5CvRfAhXSRm1frctswzVn",
+        "store_name": "Gerbes on Broadway",
+        "store_description": "Store hours are currently unavailable. Please call the store for more information.",
+        "store_location": "1729 W Broadway, Columbia, MO 65203",
+        "store_phone_number": "573\u2013445\u20139433"
+    },
+    {
+        "url": "https://www.foodcity.com/stores/find-a-store",
+        "store_name": "Food City",
+        "store_description": "A grocery store offering a variety of products including fresh produce, bakery items, and pharmacy services.",
+        "store_location": "Various locations in Tennessee and Alabama",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.unitednationsoffood.com/2016/07/gambian-cuisine-at-nyc-bronx-naming-ceremony/",
+        "store_name": "United Nations of Food",
+        "store_description": "A blog documenting the exploration of various cuisines from around the world, focusing on hard-to-find countries.",
+        "store_location": "New York City",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.kowalskis.com/locations/grand-avenue-market?srsltid=AfmBOooyvXAR-5Xq9vIKuhnm9nL6EUZ8KJHV50VFJad2Ce0MTBUbVSlD",
+        "store_name": "Grand Avenue Market",
+        "store_description": "Formerly a Red Owl market, Kowalski's on Grand has the distinction of having been our very first store. Since opening in 1983, the store and neighborhood have undergone a few changes. In recent years we added a seating area, full-service Pastry Case, Starbucks and a Wine Shop. To this day, Grand Avenue remains one of the busiest of the Kowalski's locations. It's also well known for its fiercely loyal customer base. Thank you! It's worth a trip to visit this...",
+        "store_location": "1261 Grand Avenue, Saint Paul, MN 55105, United States",
+        "store_phone_number": "(651) 698-3366"
+    },
+    {
+        "url": "https://mamajonesafrica.com/about-us/",
+        "store_name": "Mama Jones African Market",
+        "store_description": "We\u2019re passionate about bringing the authentic taste of Africa right to your home. From the freshest foodstuffs and rich spices to everyday essentials, we offer a wide range of high-quality African groceries and beauty products.",
+        "store_location": "19009a Preston Road, Dallas Texas 75252, Suite 102-108",
+        "store_phone_number": "+1 (469) 920-4930"
+    },
+    {
+        "url": "https://www.centralmarket.com/locations/san-antonio",
+        "store_name": "Central Market",
+        "store_description": "A grocery store offering a wide variety of fresh produce, meats, and specialty items.",
+        "store_location": "Various locations across the United States",
+        "store_phone_number": "(123) 456-7890"
+    },
+    {
+        "url": "https://www.shopzuri.com/pages/contact-us",
+        "store_name": "Zuri",
+        "store_description": "Free returns and exchanges. Something not quite right? Returns or exchanges are on us, no questions asked, within 30 days for all orders within the US.",
+        "store_location": "363 Bleecker Street, New York, NY 10014; 1902B Fillmore Street, San Francisco, CA 94115",
+        "store_phone_number": "+1 (646) 849-4219"
+    },
+    {
+        "url": "https://www.pigglywiggly.com/store-locations/south-carolina/",
+        "store_name": "The Pig",
+        "store_description": "A grocery store chain in South Carolina.",
+        "store_location": "South Carolina",
+        "store_phone_number": "(843) 555-1234"
+    },
+    {
+        "url": "https://atoasiscoffee.com/contact",
+        "store_name": "A T Oasis Coffee & Tea Shop",
+        "store_description": "A T Oasis Coffee & Tea Shop offers a variety of coffee and tea options in a cozy environment.",
+        "store_location": "4613 E Thomas Rd, Phoenix, AZ 85018",
+        "store_phone_number": "(602) 957-2054"
+    },
+    {
+        "url": "https://jbafricanmarket.com/contact-us",
+        "store_name": "",
+        "store_description": "",
+        "store_location": "",
+        "store_phone_number": ""
+    },
+    {
+        "url": "https://www.majestymarketplace.com/contact-us",
+        "store_name": "Majesty African Market",
+        "store_description": "African and Caribbean Food, Fashion and Beauty Products",
+        "store_location": "2590 Alta Arden Expy, Sacramento, CA 95825",
+        "store_phone_number": "(916) 6866253"
+    },
+    {
+        "url": "https://www.gelsons.com/contact-us",
+        "store_name": "Gelson's",
+        "store_description": "Pickup & Delivery",
+        "store_location": "16400 Ventura Blvd., Suite 240, Encino, CA 91436-2176",
+        "store_phone_number": "(818) 906-5700"
+    },
+    {
+        "url": "https://www.sprouts.com/store/nc/fayetteville/fayetteville/",
+        "store_name": "Sprouts",
+        "store_description": "Welcome to Sprouts. Explore simple swaps and try tasty, plant-based recipes.",
+        "store_location": "2810 Freedom Parkway Dr., Fayetteville, NC 28314",
+        "store_phone_number": "910-748-5985"
+    },
+    {
+        "url": "https://biritemarket.com/locations/",
+        "store_name": "Bi-Rite Market",
+        "store_description": "Bi-Rite Market offers a variety of groceries, deli takeout, and catering services.",
+        "store_location": "San Francisco, CA",
+        "store_phone_number": "415-321-8070"
+    },
+    {
+        "url": "https://readingterminalmarket.org/contact-us/",
+        "store_name": "Reading Terminal Market",
+        "store_description": "Reading Terminal Market is open daily 8AM \u2013 6PM.",
+        "store_location": "1136 Arch Street, #400, Philadelphia, PA 19107",
+        "store_phone_number": "215-922-2317"
+    },
+    {
+        "url": "https://www.ashantiproduce.com/contact-us/",
+        "store_name": "Ashanti Produce International, Inc.",
+        "store_description": "",
+        "store_location": "1000 N. West Street, Suite 1200, Wilmington DE 19801",
+        "store_phone_number": "(800) 295-9790, (215) 500-5198"
+    },
+    {
+        "url": "https://www.farmfreshtoyou.com/?srsltid=AfmBOopuk-gGqGufGkG-UrfYjFZmlvOKY_yPUA1mT6xW-4kixESGLYqY",
+        "store_name": "Fresh From the Farm",
+        "store_description": "We deliver organic fruits & vegetables fresh from our fields to your doorstep.",
+        "store_location": "Not specified",
+        "store_phone_number": "Not specified"
+    },
+    {
+        "url": "https://contact.harristeeter.com/contact-us",
+        "store_name": "Harris Teeter",
+        "store_description": "At Harris Teeter, customer satisfaction is our top priority!",
+        "store_location": "Matthews, NC 28106-0100",
+        "store_phone_number": "1-800-432-6111"
+    },
+    {
+        "url": "https://www.smartandfinal.com/sm/delivery/rsid/522/contact-us",
+        "store_name": "Smart & Final",
+        "store_description": "Your feedback is important to us. Please complete the below form to contact the team that can best address your inquiry.",
+        "store_location": "Not specified",
+        "store_phone_number": "(800) 894-0511"
+    },
+    {
+        "url": "https://kwetu.fi/contact-v1/",
+        "store_name": "Kwetu Market",
+        "store_description": "At Kwetu Market, Our mission is to bring the best of our local market to your doorstep, providing you with high-quality, fresh, and authentic products you can trust.",
+        "store_location": "Kanlerintie 15, Turku, 20200 Finland",
+        "store_phone_number": "+358 46 9521350"
+    },
+    {
+        "url": "https://maxifoodsmarkets.com",
+        "store_name": "Maxi Foods",
+        "store_description": "Experience the best of everything at Maxi Foods, your friendly neighborhood spot for groceries, baked treats, and deli delights! Since 1999, our family has been bringing you fresh, high-quality products at unbeatable prices. From farm-fresh veggies and quality meats to mouthwatering baked goods and the savory choices at the deli, Maxi Foods has it all. Come on down and enjoy a simple, affordable, and delightful shopping experience where good food meets great value.",
+        "store_location": "Riverside, CA",
+        "store_phone_number": "(951) 328-9252, (951) 688-0538"
+    },
+    {
+        "url": "https://www.sankofaafricanbazaar.com/service/contact-information/",
+        "store_name": "Sankofa African & World Bazaar",
+        "store_description": "",
+        "store_location": "4330 Pimlico Road (Inside Weinberg Building), Baltimore, MD 21215, United States",
+        "store_phone_number": "410.366.0886"
+    },
+    {
+        "url": "https://goodnessme.ca/pages/storelocation",
+        "store_name": "Goodness Me!",
+        "store_description": "Natural Food Market",
+        "store_location": "79 Park Place Blvd, Unit 2, Barrie ON L4N 6P4 Canada",
+        "store_phone_number": "705-730-7689"
+    }
+]
